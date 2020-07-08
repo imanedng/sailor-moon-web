@@ -1,0 +1,19 @@
+body
+{
+    margin:auto;padding:16px;width:960px; background-color: thistle;
+}
+h1
+{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: rgb(0, 0, 0);
+}
+
+#section-main
+{
+background-image: url("../images/sailor\ moon.jpg");
+}
+a:hover
+{color: cadetblue;}
+p{
+    font-family: sans-serif;
+}
